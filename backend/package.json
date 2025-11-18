@@ -1,0 +1,10 @@
+{
+  "name": "company-finder-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server --watch db.json --port 8080"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
